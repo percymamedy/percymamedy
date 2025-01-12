@@ -26,7 +26,7 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=percymamedy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Percy Mamedy's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=percymamedy&limit=3&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
