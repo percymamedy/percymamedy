@@ -73,6 +73,9 @@
 <div align="center">
   <a href="https://github.com/laravel/framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=framework&theme=tokyonight&hide_border=true" alt="laravel/framework" /></a>
   <a href="https://github.com/livewire/livewire"><img src="https://github-readme-stats.vercel.app/api/pin/?username=livewire&repo=livewire&theme=tokyonight&hide_border=true" alt="livewire/livewire" /></a>
+  <a href="https://github.com/facade/ignition"><img src="https://github-readme-stats.vercel.app/api/pin/?username=facade&repo=ignition&theme=tokyonight&hide_border=true" alt="facade/ignition" /></a>
+  <a href="https://github.com/mikebronner/laravel-caffeine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mikebronner&repo=laravel-caffeine&theme=tokyonight&hide_border=true" alt="mikebronner/laravel-caffeine" /></a>
+  <a href="https://github.com/coduo/php-humanizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coduo&repo=php-humanizer&theme=tokyonight&hide_border=true" alt="coduo/php-humanizer" /></a>
 </div>
 
 ## ✍️ Random Dev Quote
