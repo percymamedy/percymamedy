@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:4E56A6&height=200&section=header&text=Percy%20Mamedy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Laravel%20Artisan%20%E2%80%A2%20Port%20Louis%2C%20Mauritius&descAlignY=58" alt="Percy Mamedy" />
 
 <a href="https://github.com/percymamedy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Laravel+%E2%80%A2+TALL+Stack+%E2%80%A2+VILT+Stack;Building+with+NativePHP+%26+Livewire;Learning+React+Native+%F0%9F%93%B1;Ask+me+about+Laravel%2C+Vue+%26+Inertia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Laravel+%E2%80%A2+TALL+Stack+%E2%80%A2+VILT+Stack;Building+with+NativePHP+%26+Livewire;Learning+React+Native+%F0%9F%93%B1;Ask+me+about+Laravel%2C+Vue+%26+Inertia" alt="Laravel, TALL Stack, VILT Stack, NativePHP, Livewire" />
 </a>
 
 <p>
@@ -39,9 +39,9 @@
 <div align="center">
 
 **Backend & Frameworks**<br/>
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,graphql,wordpress&theme=dark" alt="Backend" />
-<img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" height="48" />
-<img src="https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=black" alt="Filament" height="48" />
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,graphql,wordpress&theme=dark" alt="Backend" /><br/>
+<img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
+<img src="https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=black" alt="Filament" />
 
 **Frontend & Mobile**<br/>
 <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,alpinejs,tailwind,ts,js,html,vite,flutter,dart&theme=dark" alt="Frontend" />
@@ -50,9 +50,9 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,elasticsearch,rabbitmq,appwrite&theme=dark" alt="Data" />
 
 **Cloud & DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=aws,netlify,nginx,docker,jenkins,git,github,gitlab&theme=dark" alt="DevOps" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="48" />
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" height="48" />
+<img src="https://skillicons.dev/icons?i=aws,netlify,nginx,docker,jenkins,git,github,gitlab&theme=dark" alt="DevOps" /><br/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
 
 **Tools & ML**<br/>
 <img src="https://skillicons.dev/icons?i=figma,postman,pytorch,tensorflow&theme=dark" alt="Tools" />
@@ -68,15 +68,17 @@
   <img src="https://streak-stats.demolab.com/?user=percymamedy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
-## 🔝 Top Contributed Repos
+## 🤝 Open Source Contributions
+
+<p align="center"><sub>Projects I've shipped merged pull requests to</sub></p>
 
 <div align="center">
-  <a href="https://github.com/laravel/framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=framework&theme=tokyonight&hide_border=true" alt="laravel/framework" /></a>
-  <a href="https://github.com/livewire/livewire"><img src="https://github-readme-stats.vercel.app/api/pin/?username=livewire&repo=livewire&theme=tokyonight&hide_border=true" alt="livewire/livewire" /></a>
-  <a href="https://github.com/facade/ignition"><img src="https://github-readme-stats.vercel.app/api/pin/?username=facade&repo=ignition&theme=tokyonight&hide_border=true" alt="facade/ignition" /></a>
-  <a href="https://github.com/calcom/docker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=calcom&repo=docker&theme=tokyonight&hide_border=true" alt="calcom/docker" /></a>
-  <a href="https://github.com/mikebronner/laravel-caffeine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mikebronner&repo=laravel-caffeine&theme=tokyonight&hide_border=true" alt="mikebronner/laravel-caffeine" /></a>
-  <a href="https://github.com/coduo/php-humanizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coduo&repo=php-humanizer&theme=tokyonight&hide_border=true" alt="coduo/php-humanizer" /></a>
+  <a href="https://github.com/laravel/framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=framework&theme=tokyonight&hide_border=true&description_lines_count=2" alt="laravel/framework" /></a>
+  <a href="https://github.com/livewire/livewire"><img src="https://github-readme-stats.vercel.app/api/pin/?username=livewire&repo=livewire&theme=tokyonight&hide_border=true&description_lines_count=2" alt="livewire/livewire" /></a>
+  <a href="https://github.com/facade/ignition"><img src="https://github-readme-stats.vercel.app/api/pin/?username=facade&repo=ignition&theme=tokyonight&hide_border=true&description_lines_count=2" alt="facade/ignition" /></a>
+  <a href="https://github.com/calcom/docker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=calcom&repo=docker&theme=tokyonight&hide_border=true&description_lines_count=2" alt="calcom/docker" /></a>
+  <a href="https://github.com/mikebronner/laravel-caffeine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mikebronner&repo=laravel-caffeine&theme=tokyonight&hide_border=true&description_lines_count=2" alt="mikebronner/laravel-caffeine" /></a>
+  <a href="https://github.com/coduo/php-humanizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coduo&repo=php-humanizer&theme=tokyonight&hide_border=true&description_lines_count=2" alt="coduo/php-humanizer" /></a>
 </div>
 
 ## ✍️ Random Dev Quote
