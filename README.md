@@ -72,6 +72,7 @@
 
 <div align="center">
   <a href="https://github.com/laravel/framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=laravel&repo=framework&theme=tokyonight&hide_border=true" alt="laravel/framework" /></a>
+  <a href="https://github.com/livewire/livewire"><img src="https://github-readme-stats.vercel.app/api/pin/?username=livewire&repo=livewire&theme=tokyonight&hide_border=true" alt="livewire/livewire" /></a>
   <a href="https://github.com/percymamedy/laravel-dev-booter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=percymamedy&repo=laravel-dev-booter&theme=tokyonight&hide_border=true" alt="laravel-dev-booter" /></a>
   <a href="https://github.com/percymamedy/laravel-dev-tools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=percymamedy&repo=laravel-dev-tools&theme=tokyonight&hide_border=true" alt="laravel-dev-tools" /></a>
   <a href="https://github.com/percymamedy/crafter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=percymamedy&repo=crafter&theme=tokyonight&hide_border=true" alt="crafter" /></a>
